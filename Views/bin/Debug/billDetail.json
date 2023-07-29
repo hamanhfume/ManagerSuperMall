@@ -1,0 +1,456 @@
+{
+  "billDetails": [
+    {
+      "paymentMethodBillDetails": "Payment in cash",
+      "staffNameBillDetails": "a a a",
+      "idBill": 1000002,
+      "cartBill": {
+        "idCart": 0,
+        "customerCart": {
+          "typeCustomer": "Customer",
+          "pointCustomer": 0,
+          "createTimeAccountCustomer": "2023-07-04T20:01:47.8601759+07:00",
+          "emailCustomer": "hamanh@gmail.com",
+          "idPerson": "001202035522",
+          "fullNamePerson": {
+            "firstName": "Đàm",
+            "midName": "Tuấn",
+            "lastName": "Đại"
+          },
+          "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+          "addressPerson": "Hà Nội",
+          "phoneNumber": "0987209591"
+        },
+        "selectedItemCart": [
+          {
+            "numberOfSelectedItem": 20,
+            "priceAfterDiscounts": 6500000,
+            "idItem": 100007,
+            "nameItem": "Iphone XS",
+            "typeItem": "Electronic",
+            "quantityItem": 1000,
+            "brandItem": "Apple",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 7000000,
+            "discountItem": {
+              "idDiscount": 1000002,
+              "nameDiscount": "Sale 500k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 500000
+            }
+          }
+        ],
+        "totalSelectedItemCart": 0
+      },
+      "createTimeBill": "2023-07-04T20:04:46.2035957+07:00",
+      "totalItemBill": 20,
+      "totalSubBill": 140000000,
+      "totalDiscountBill": 10000000,
+      "totalAmountBill": 130000000,
+      "statusBill": "Finish payment"
+    },
+    {
+      "paymentMethodBillDetails": "",
+      "staffNameBillDetails": "a a a",
+      "idBill": 1000003,
+      "cartBill": {
+        "idCart": 0,
+        "customerCart": {
+          "typeCustomer": "Customer",
+          "pointCustomer": 0,
+          "createTimeAccountCustomer": "2023-07-04T20:01:16.2499309+07:00",
+          "emailCustomer": "hamanh@gmail.com",
+          "idPerson": "001202035526",
+          "fullNamePerson": {
+            "firstName": "Hà",
+            "midName": "Văn",
+            "lastName": "Long"
+          },
+          "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+          "addressPerson": "Hà Nội",
+          "phoneNumber": "0987209592"
+        },
+        "selectedItemCart": [
+          {
+            "numberOfSelectedItem": 15,
+            "priceAfterDiscounts": 40000,
+            "idItem": 100000,
+            "nameItem": "Mì Cay",
+            "typeItem": "Food",
+            "quantityItem": 970,
+            "brandItem": "Ace Cook",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 50000,
+            "discountItem": {
+              "idDiscount": 1000001,
+              "nameDiscount": "Sale 10k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 10000
+            }
+          },
+          {
+            "numberOfSelectedItem": 15,
+            "priceAfterDiscounts": 90000,
+            "idItem": 100003,
+            "nameItem": "Mì Omaichi",
+            "typeItem": "Food",
+            "quantityItem": 980,
+            "brandItem": "Ace Cook",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 100000,
+            "discountItem": {
+              "idDiscount": 1000001,
+              "nameDiscount": "Sale 10k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 10000
+            }
+          },
+          {
+            "numberOfSelectedItem": 15,
+            "priceAfterDiscounts": 14500000,
+            "idItem": 100008,
+            "nameItem": "Iphone 14 ProMax",
+            "typeItem": "Electronic",
+            "quantityItem": 975,
+            "brandItem": "Apple",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 15000000,
+            "discountItem": {
+              "idDiscount": 1000002,
+              "nameDiscount": "Sale 500k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 500000
+            }
+          }
+        ],
+        "totalSelectedItemCart": 0
+      },
+      "createTimeBill": "2023-07-04T20:05:34.1660144+07:00",
+      "totalItemBill": 45,
+      "totalSubBill": 227250000,
+      "totalDiscountBill": 7800000,
+      "totalAmountBill": 219450000,
+      "statusBill": "Processing"
+    },
+    {
+      "paymentMethodBillDetails": "Payment in cash",
+      "staffNameBillDetails": "Đàm Tuấn Nghĩa",
+      "idBill": 1000000,
+      "cartBill": {
+        "idCart": 0,
+        "customerCart": {
+          "typeCustomer": "Customer",
+          "pointCustomer": 0,
+          "createTimeAccountCustomer": "2023-07-04T20:01:02.5958434+07:00",
+          "emailCustomer": "hamanh@gmail.com",
+          "idPerson": "001202035527",
+          "fullNamePerson": {
+            "firstName": "Hà",
+            "midName": "Văn",
+            "lastName": "Mạnh"
+          },
+          "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+          "addressPerson": "Hà Nội",
+          "phoneNumber": "0987209593"
+        },
+        "selectedItemCart": [
+          {
+            "numberOfSelectedItem": 10,
+            "priceAfterDiscounts": 40000,
+            "idItem": 100000,
+            "nameItem": "Mì Cay",
+            "typeItem": "Food",
+            "quantityItem": 1000,
+            "brandItem": "Ace Cook",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 50000,
+            "discountItem": {
+              "idDiscount": 1000001,
+              "nameDiscount": "Sale 10k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 10000
+            }
+          },
+          {
+            "numberOfSelectedItem": 20,
+            "priceAfterDiscounts": 90000,
+            "idItem": 100003,
+            "nameItem": "Mì Omaichi",
+            "typeItem": "Food",
+            "quantityItem": 1000,
+            "brandItem": "Ace Cook",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 100000,
+            "discountItem": {
+              "idDiscount": 1000001,
+              "nameDiscount": "Sale 10k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 10000
+            }
+          },
+          {
+            "numberOfSelectedItem": 15,
+            "priceAfterDiscounts": 14500000,
+            "idItem": 100008,
+            "nameItem": "Iphone 14 ProMax",
+            "typeItem": "Electronic",
+            "quantityItem": 1000,
+            "brandItem": "Apple",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 15000000,
+            "discountItem": {
+              "idDiscount": 1000002,
+              "nameDiscount": "Sale 500k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 500000
+            }
+          }
+        ],
+        "totalSelectedItemCart": 0
+      },
+      "createTimeBill": "2023-07-04T20:03:47.4329516+07:00",
+      "totalItemBill": 45,
+      "totalSubBill": 227500000,
+      "totalDiscountBill": 7800000,
+      "totalAmountBill": 219700000,
+      "statusBill": "Finish payment"
+    },
+    {
+      "paymentMethodBillDetails": "",
+      "staffNameBillDetails": "a a a",
+      "idBill": 1000004,
+      "cartBill": {
+        "idCart": 0,
+        "customerCart": {
+          "typeCustomer": "Customer",
+          "pointCustomer": 0,
+          "createTimeAccountCustomer": "2023-07-04T20:01:38.9024921+07:00",
+          "emailCustomer": "hamanh@gmail.com",
+          "idPerson": "001202035520",
+          "fullNamePerson": {
+            "firstName": "Nguyễn",
+            "midName": "Bảo",
+            "lastName": "Lâm"
+          },
+          "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+          "addressPerson": "Hà Nội",
+          "phoneNumber": "0987209591"
+        },
+        "selectedItemCart": [
+          {
+            "numberOfSelectedItem": 12,
+            "priceAfterDiscounts": 40000,
+            "idItem": 100000,
+            "nameItem": "Mì Cay",
+            "typeItem": "Food",
+            "quantityItem": 955,
+            "brandItem": "Ace Cook",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 50000,
+            "discountItem": {
+              "idDiscount": 1000001,
+              "nameDiscount": "Sale 10k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 10000
+            }
+          },
+          {
+            "numberOfSelectedItem": 12,
+            "priceAfterDiscounts": 90000,
+            "idItem": 100003,
+            "nameItem": "Mì Omaichi",
+            "typeItem": "Food",
+            "quantityItem": 965,
+            "brandItem": "Ace Cook",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 100000,
+            "discountItem": {
+              "idDiscount": 1000001,
+              "nameDiscount": "Sale 10k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 10000
+            }
+          },
+          {
+            "numberOfSelectedItem": 12,
+            "priceAfterDiscounts": 14500000,
+            "idItem": 100008,
+            "nameItem": "Iphone 14 ProMax",
+            "typeItem": "Electronic",
+            "quantityItem": 960,
+            "brandItem": "Apple",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 15000000,
+            "discountItem": {
+              "idDiscount": 1000002,
+              "nameDiscount": "Sale 500k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 500000
+            }
+          }
+        ],
+        "totalSelectedItemCart": 0
+      },
+      "createTimeBill": "2023-07-04T20:05:49.1918919+07:00",
+      "totalItemBill": 36,
+      "totalSubBill": 181800000,
+      "totalDiscountBill": 6240000,
+      "totalAmountBill": 175560000,
+      "statusBill": "Processing"
+    },
+    {
+      "paymentMethodBillDetails": "",
+      "staffNameBillDetails": "Đàm Vinh Đại",
+      "idBill": 1000001,
+      "cartBill": {
+        "idCart": 0,
+        "customerCart": {
+          "typeCustomer": "Customer",
+          "pointCustomer": 0,
+          "createTimeAccountCustomer": "2023-07-04T20:01:29.6998185+07:00",
+          "emailCustomer": "hamanh@gmail.com",
+          "idPerson": "001202035521",
+          "fullNamePerson": {
+            "firstName": "Nguyễn",
+            "midName": "Thị Thanh",
+            "lastName": "Trúc"
+          },
+          "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+          "addressPerson": "Hà Nội",
+          "phoneNumber": "0987209591"
+        },
+        "selectedItemCart": [
+          {
+            "numberOfSelectedItem": 10,
+            "priceAfterDiscounts": 14500000,
+            "idItem": 100008,
+            "nameItem": "Iphone 14 ProMax",
+            "typeItem": "Electronic",
+            "quantityItem": 985,
+            "brandItem": "Apple",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 15000000,
+            "discountItem": {
+              "idDiscount": 1000002,
+              "nameDiscount": "Sale 500k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 500000
+            }
+          },
+          {
+            "numberOfSelectedItem": 20,
+            "priceAfterDiscounts": 40000,
+            "idItem": 100000,
+            "nameItem": "Mì Cay",
+            "typeItem": "Food",
+            "quantityItem": 990,
+            "brandItem": "Ace Cook",
+            "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+            "priceItem": 50000,
+            "discountItem": {
+              "idDiscount": 1000001,
+              "nameDiscount": "Sale 10k",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Direct Value",
+              "percentDiscount": 0,
+              "priceAmountDiscount": 10000
+            }
+          }
+        ],
+        "totalSelectedItemCart": 0
+      },
+      "createTimeBill": "2023-07-04T20:04:44.8800552+07:00",
+      "totalItemBill": 30,
+      "totalSubBill": 151000000,
+      "totalDiscountBill": 5200000,
+      "totalAmountBill": 145800000,
+      "statusBill": "Processing"
+    },
+    {
+      "paymentMethodBillDetails": "",
+      "staffNameBillDetails": "a a a",
+      "idBill": 1000005,
+      "cartBill": {
+        "idCart": 0,
+        "customerCart": {
+          "typeCustomer": "Customer",
+          "pointCustomer": 0,
+          "createTimeAccountCustomer": "2023-07-04T20:01:38.9024921+07:00",
+          "emailCustomer": "hamanh@gmail.com",
+          "idPerson": "001202035520",
+          "fullNamePerson": {
+            "firstName": "Nguyễn",
+            "midName": "Bảo",
+            "lastName": "Lâm"
+          },
+          "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+          "addressPerson": "Hà Nội",
+          "phoneNumber": "0987209591"
+        },
+        "selectedItemCart": [
+          {
+            "numberOfSelectedItem": 1,
+            "priceAfterDiscounts": 0,
+            "idItem": 100010,
+            "nameItem": "bim bim",
+            "typeItem": "Food",
+            "quantityItem": 10,
+            "brandItem": "Ace",
+            "releaseDateItem": "2023-07-15T14:42:41",
+            "priceItem": 10000,
+            "discountItem": {
+              "idDiscount": 1000000,
+              "nameDiscount": "Sale 10%",
+              "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+              "endTimeDiscount": "2023-07-05T20:02:10",
+              "typeDiscount": "Discount Percent Price Item",
+              "percentDiscount": 10,
+              "priceAmountDiscount": 0
+            }
+          }
+        ],
+        "totalSelectedItemCart": 0
+      },
+      "createTimeBill": "2023-07-24T14:43:17.7919609+07:00",
+      "totalItemBill": 1,
+      "totalSubBill": 10000,
+      "totalDiscountBill": 0,
+      "totalAmountBill": 0,
+      "statusBill": "Processing"
+    }
+  ]
+}

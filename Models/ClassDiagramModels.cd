@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Models.BillDetails">
+    <Position X="9.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAQAgABAAAAAAAABAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>BillDetails.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Bills">
+    <Position X="12.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgAgAAAAQEkAABAAAAAAAAAIQAABAAAAAQAAA=</HashCode>
+      <FileName>Bills.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Carts" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAQAgAABAAAAAAAQAIAAAAACAAAAEEA=</HashCode>
+      <FileName>Carts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.158" Collapsed="true" />
+  </Class>
+  <Class Name="Models.Customers">
+    <Position X="6.75" Y="4.5" Width="1.75" />
+    <InheritanceLine Type="Models.Persons" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.312" Y="6.632" />
+        <Point X="10.312" Y="7.25" />
+        <Point X="8.5" Y="7.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAwAiAAAABAAAAAAAIAAgAAAAAAQAAA=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.Discounts">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAEAFAAAAAAAAAAgACBACAAAIAAAoAAAAAEAAAAAAA=</HashCode>
+      <FileName>Discounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.FullName">
+    <Position X="12.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAEAAAAAAAAAg=</HashCode>
+      <FileName>FullName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Items">
+    <Position X="3.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAQAAAAAAQAgAAFAEAABAAACKEAAAIAAAAAEAA=</HashCode>
+      <FileName>Items.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.825" />
+  </Class>
+  <Class Name="Models.Persons">
+    <Position X="9.75" Y="4.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAhAgAQAAAAAAAAIACAAIAAAAAAAA=</HashCode>
+      <FileName>Persons.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.SelectedItems">
+    <Position X="0.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAAQAgAAAAA=</HashCode>
+      <FileName>SelectedItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

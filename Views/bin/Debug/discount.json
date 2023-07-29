@@ -1,0 +1,49 @@
+{
+  "discounts": [
+    {
+      "idDiscount": 1000000,
+      "nameDiscount": "Sale 10%",
+      "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+      "endTimeDiscount": "2023-07-05T20:02:10",
+      "typeDiscount": "Discount Percent Price Item",
+      "percentDiscount": 10,
+      "priceAmountDiscount": 0
+    },
+    {
+      "idDiscount": 1000001,
+      "nameDiscount": "Sale 10k",
+      "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+      "endTimeDiscount": "2023-07-05T20:02:10",
+      "typeDiscount": "Discount Direct Value",
+      "percentDiscount": 0,
+      "priceAmountDiscount": 10000
+    },
+    {
+      "idDiscount": 1000002,
+      "nameDiscount": "Sale 500k",
+      "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+      "endTimeDiscount": "2023-07-05T20:02:10",
+      "typeDiscount": "Discount Direct Value",
+      "percentDiscount": 0,
+      "priceAmountDiscount": 500000
+    },
+    {
+      "idDiscount": 1000003,
+      "nameDiscount": "Sale 50%",
+      "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+      "endTimeDiscount": "2023-07-05T20:02:10",
+      "typeDiscount": "Discount Percent Price Item",
+      "percentDiscount": 50,
+      "priceAmountDiscount": 0
+    },
+    {
+      "idDiscount": 1000004,
+      "nameDiscount": "Sale 80k",
+      "startTimeDiscount": "2023-07-22T19:05:41.3880941+07:00",
+      "endTimeDiscount": "2023-07-23T19:05:41",
+      "typeDiscount": "Discount Direct Value",
+      "percentDiscount": 0,
+      "priceAmountDiscount": 80000
+    }
+  ]
+}

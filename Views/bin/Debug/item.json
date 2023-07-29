@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "idItem": 100000,
+      "nameItem": "Mì Cay",
+      "typeItem": "Food",
+      "quantityItem": 943,
+      "brandItem": "Ace Cook",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 50000,
+      "discountItem": {
+        "idDiscount": 1000001,
+        "nameDiscount": "Sale 10k",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Direct Value",
+        "percentDiscount": 0,
+        "priceAmountDiscount": 10000
+      }
+    },
+    {
+      "idItem": 100001,
+      "nameItem": "Mì Ý",
+      "typeItem": "Food",
+      "quantityItem": 1000,
+      "brandItem": "Ace Cook",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 50000,
+      "discountItem": {
+        "idDiscount": 1000001,
+        "nameDiscount": "Sale 10k",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Direct Value",
+        "percentDiscount": 0,
+        "priceAmountDiscount": 10000
+      }
+    },
+    {
+      "idItem": 100002,
+      "nameItem": "Mì Kokomi",
+      "typeItem": "Food",
+      "quantityItem": 1000,
+      "brandItem": "Ace Cook",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 50000,
+      "discountItem": {
+        "idDiscount": 1000000,
+        "nameDiscount": "Sale 10%",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Percent Price Item",
+        "percentDiscount": 10,
+        "priceAmountDiscount": 0
+      }
+    },
+    {
+      "idItem": 100003,
+      "nameItem": "Mì Omaichi",
+      "typeItem": "Food",
+      "quantityItem": 953,
+      "brandItem": "Ace Cook",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 100000,
+      "discountItem": {
+        "idDiscount": 1000001,
+        "nameDiscount": "Sale 10k",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Direct Value",
+        "percentDiscount": 0,
+        "priceAmountDiscount": 10000
+      }
+    },
+    {
+      "idItem": 100004,
+      "nameItem": "Phở Gà",
+      "typeItem": "Food",
+      "quantityItem": 1000,
+      "brandItem": "Ace Cook",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 80000,
+      "discountItem": {
+        "idDiscount": 1000004,
+        "nameDiscount": "Sale 80k",
+        "startTimeDiscount": "2023-07-22T19:05:41.3880941+07:00",
+        "endTimeDiscount": "2023-07-23T19:05:41",
+        "typeDiscount": "Discount Direct Value",
+        "percentDiscount": 0,
+        "priceAmountDiscount": 80000
+      }
+    },
+    {
+      "idItem": 100005,
+      "nameItem": "Phở Bò",
+      "typeItem": "Food",
+      "quantityItem": 1000,
+      "brandItem": "Ace Cook",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 100000,
+      "discountItem": {
+        "idDiscount": 1000000,
+        "nameDiscount": "Sale 10%",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Percent Price Item",
+        "percentDiscount": 10,
+        "priceAmountDiscount": 0
+      }
+    },
+    {
+      "idItem": 100006,
+      "nameItem": "Iphone X",
+      "typeItem": "Electronic",
+      "quantityItem": 1000,
+      "brandItem": "Apple",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 5000000,
+      "discountItem": {
+        "idDiscount": 1000001,
+        "nameDiscount": "Sale 10k",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Direct Value",
+        "percentDiscount": 0,
+        "priceAmountDiscount": 10000
+      }
+    },
+    {
+      "idItem": 100007,
+      "nameItem": "Iphone XS",
+      "typeItem": "Electronic",
+      "quantityItem": 980,
+      "brandItem": "Apple",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 7000000,
+      "discountItem": {
+        "idDiscount": 1000002,
+        "nameDiscount": "Sale 500k",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Direct Value",
+        "percentDiscount": 0,
+        "priceAmountDiscount": 500000
+      }
+    },
+    {
+      "idItem": 100008,
+      "nameItem": "Iphone 14 ProMax",
+      "typeItem": "Electronic",
+      "quantityItem": 948,
+      "brandItem": "Apple",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 15000000,
+      "discountItem": {
+        "idDiscount": 1000003,
+        "nameDiscount": "Sale 50%",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Percent Price Item",
+        "percentDiscount": 50,
+        "priceAmountDiscount": 0
+      }
+    },
+    {
+      "idItem": 100009,
+      "nameItem": "Iphone 12",
+      "typeItem": "Electronic",
+      "quantityItem": 1000,
+      "brandItem": "Apple",
+      "releaseDateItem": "2023-07-04T19:58:50.6391501+07:00",
+      "priceItem": 10000000,
+      "discountItem": {
+        "idDiscount": 1000001,
+        "nameDiscount": "Sale 10k",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Direct Value",
+        "percentDiscount": 0,
+        "priceAmountDiscount": 10000
+      }
+    },
+    {
+      "idItem": 100010,
+      "nameItem": "bim bim",
+      "typeItem": "Food",
+      "quantityItem": 9,
+      "brandItem": "Ace",
+      "releaseDateItem": "2023-07-15T14:42:41",
+      "priceItem": 10000,
+      "discountItem": {
+        "idDiscount": 1000000,
+        "nameDiscount": "Sale 10%",
+        "startTimeDiscount": "2023-07-04T20:02:10.5010476+07:00",
+        "endTimeDiscount": "2023-07-05T20:02:10",
+        "typeDiscount": "Discount Percent Price Item",
+        "percentDiscount": 10,
+        "priceAmountDiscount": 0
+      }
+    }
+  ]
+}

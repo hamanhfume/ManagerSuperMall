@@ -1,0 +1,109 @@
+{
+  "customers": [
+    {
+      "typeCustomer": "Customer",
+      "pointCustomer": 0,
+      "createTimeAccountCustomer": "2023-07-04T20:01:38.9024921+07:00",
+      "emailCustomer": "hamanh@gmail.com",
+      "idPerson": "001202035520",
+      "fullNamePerson": {
+        "firstName": "Nguyễn",
+        "midName": "Bảo",
+        "lastName": "Lâm"
+      },
+      "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+      "addressPerson": "Hà Nội",
+      "phoneNumber": "0987209591"
+    },
+    {
+      "typeCustomer": "Customer",
+      "pointCustomer": 0,
+      "createTimeAccountCustomer": "2023-07-04T20:01:29.6998185+07:00",
+      "emailCustomer": "hamanh@gmail.com",
+      "idPerson": "001202035521",
+      "fullNamePerson": {
+        "firstName": "Nguyễn",
+        "midName": "Thị Thanh",
+        "lastName": "Trúc"
+      },
+      "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+      "addressPerson": "Hà Nội",
+      "phoneNumber": "0987209591"
+    },
+    {
+      "typeCustomer": "Customer",
+      "pointCustomer": 0,
+      "createTimeAccountCustomer": "2023-07-04T20:01:47.8601759+07:00",
+      "emailCustomer": "hamanh@gmail.com",
+      "idPerson": "001202035522",
+      "fullNamePerson": {
+        "firstName": "Đàm",
+        "midName": "Tuấn",
+        "lastName": "Đại"
+      },
+      "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+      "addressPerson": "Hà Nội",
+      "phoneNumber": "0987209591"
+    },
+    {
+      "typeCustomer": "Customer",
+      "pointCustomer": 0,
+      "createTimeAccountCustomer": "2023-07-04T20:01:57.1884514+07:00",
+      "emailCustomer": "hamanh@gmail.com",
+      "idPerson": "001202035524",
+      "fullNamePerson": {
+        "firstName": "Đường",
+        "midName": "Vinh",
+        "lastName": "Tuấn"
+      },
+      "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+      "addressPerson": "Hà Nội",
+      "phoneNumber": "0987209591"
+    },
+    {
+      "typeCustomer": "Customer",
+      "pointCustomer": 0,
+      "createTimeAccountCustomer": "2023-07-04T20:01:16.2499309+07:00",
+      "emailCustomer": "hamanh@gmail.com",
+      "idPerson": "001202035526",
+      "fullNamePerson": {
+        "firstName": "Hà",
+        "midName": "Văn",
+        "lastName": "Long"
+      },
+      "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+      "addressPerson": "Hà Nội",
+      "phoneNumber": "0987209592"
+    },
+    {
+      "typeCustomer": "Customer",
+      "pointCustomer": 0,
+      "createTimeAccountCustomer": "2023-07-04T20:01:02.5958434+07:00",
+      "emailCustomer": "hamanh@gmail.com",
+      "idPerson": "001202035527",
+      "fullNamePerson": {
+        "firstName": "Hà",
+        "midName": "Văn",
+        "lastName": "Mạnh"
+      },
+      "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+      "addressPerson": "Hà Nội",
+      "phoneNumber": "0987209593"
+    },
+    {
+      "typeCustomer": "Customer",
+      "pointCustomer": 0,
+      "createTimeAccountCustomer": "2023-07-04T20:02:05.5735642+07:00",
+      "emailCustomer": "hamanh@gmail.com",
+      "idPerson": "001202035528",
+      "fullNamePerson": {
+        "firstName": "Ma",
+        "midName": "Bảo",
+        "lastName": "Khánh"
+      },
+      "birthDatePerson": "2023-07-04T20:00:43.2495898+07:00",
+      "addressPerson": "Hà Nội",
+      "phoneNumber": "0987209591"
+    }
+  ]
+}
